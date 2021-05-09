@@ -58,11 +58,6 @@
 </p>
 
 
-<p align="center">
-    <a href="https://github.com/gustavoabell" target="_blank"><img alt="gustavoabell" src="https://badges.pufler.dev/visits/gustavoabell/gustavoabell?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
-</p>
-
-
 
 
 
