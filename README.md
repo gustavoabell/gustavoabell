@@ -7,12 +7,6 @@
 ## Hello! My name is Gustavo Abel, I'm a Software Developer student from brazil, passionate about programming, technology, games and coffe! 👋
  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="950px" height="300" />
 
- ```js
-const Contacts = { 
-   👨🏻‍💻 Linkedin: 'linkedin.com/in/gustavoabel10',
-   📒 Email: 'gustavoabel.contato@gmail.com',
-}
-```
 
 
 ## I'm a Full Stack Developer, Student and Entrepreneur.
@@ -20,13 +14,6 @@ const Contacts = {
 
 ## About me:
 - Programming student focused on Full Stack Passionate about the best web and mobile development technologies. By having
-
-### 🥅 2021 Goals:
-- ▶️ Produce videos for my youtube channel
-- 🌱 Learn everything possible 🤣
-- 🥅 Contribute more to Open Source projects
-- :rocket:  Never stop doing what i like because of work
-- ⌚ Commit every day of the year
 
 
 ### Connect with me:
@@ -77,7 +64,7 @@ const Contacts = {
 
 
 
-⭐️ From [Gustavo Abel](https://github.com/gustavoabell)
+
 
 [twitter]: https://twitter.com/gustavoabeell
 [youtube]: https://www.youtube.com/channel/UC_PV5AtUjFszAzP633uBqMA
