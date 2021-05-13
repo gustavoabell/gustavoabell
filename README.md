@@ -25,7 +25,7 @@
 
 <br />
 
-### Languages and Tools:
+### I'm Learning:
 
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
