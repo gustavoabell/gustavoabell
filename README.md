@@ -13,7 +13,7 @@
 <img align='right' src='download.svg' width='400"'>
 
 ## About me:
-- Programming student focused on Full Stack Passionate about the best web and mobile development technologies. 
+Programming student focused on Full Stack Passionate about the best web and mobile development technologies. 
 
 
 ### Connect with me:
