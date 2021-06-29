@@ -13,7 +13,7 @@ My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from 
 - 🔭 I’m currently studying on [Universidade Paulista | UNIP](https://www.unip.br/) in Bachelor Computer Science.
 - 🌱 I’m currently focusing on JavaScript, NodeJS and ReactJS!
 - :ballot_box_with_check: My goal is to become a developer capable of solving real problems (=
-- ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@eugustavoabell](https://www.instagram.com/eugustavoabell/) (Portuguese content)
+- ⚡ Curious fact: I have an Instagram account to share programming knowledge! Follow me if you want 😁 [@eugustavoabell](https://www.instagram.com/eugustavoabel/) (Portuguese content)
 
 #### <kbd>Back-end:</kbd><br>
 <img height="26" title="MySQL" alt="MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"> &nbsp;
