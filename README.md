@@ -5,7 +5,7 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-<img align='right' src='./assets/download.svg' width='400"'>
+<img align='right' src='download.svg' width='400"'>
 
  
 My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from Brazil, passionate about programming, technology, Unix and Linux, coffee! ☕💜
