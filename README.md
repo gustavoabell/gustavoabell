@@ -74,7 +74,7 @@ My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from 
   - [LinkedIn](https://www.linkedin.com/in/gustavoabel10/)
   - [Gmail](mailto:gustavoabel.contato@gmail.com)
   - [Discord](https://discords.com/bio/p/gustavoabell)
-  - [Rocketseat](https://app.rocketseat.com.br/me/gustavo-abel-da-silva-07505)
+  - [Rocketseat](https://app.rocketseat.com.br/me/gustavoabell)
   - [Dev.to](https://dev.to/gustavoabell)
   - [Gustavo Abel](https://www.instagram.com/gustavoabell_/)
   </details>
