@@ -43,7 +43,7 @@ My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from 
 <img height="26" title="Linux" alt="Linux" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png"> &nbsp;
 
 
-
+<kbd>Redes Sociais⤵: (Acesse meu servidor do Discord)</kbd>
 
   <a href="https://instagram.com/eugustavoabell">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
