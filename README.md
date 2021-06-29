@@ -45,7 +45,7 @@ My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from 
 
 <kbd>Redes Sociais ⤵ (Acesse meu servidor do Discord):</kbd>
 
-  <a href="https://instagram.com/eugustavoabell">
+  <a href="https://instagram.com/gustavoabell_">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
