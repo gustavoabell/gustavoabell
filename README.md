@@ -52,7 +52,9 @@ My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from 
   <a href="https://www.linkedin.com/in/gustavoabel10/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+ <a href="https://discords.com/servers/336181186441379841/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 
 <details><summary><b><kbd>GitHub Stats</kbd></b></summary>
   
