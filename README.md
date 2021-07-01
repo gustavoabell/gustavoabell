@@ -33,7 +33,7 @@ My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from 
 <!-- #### <kbd>Aprendendo:</kbd><br> -->
 
 
-#### <kbd>Other Languages and Tools </kbd><br>
+#### <kbd>Other Languages and Tools: </kbd><br>
 <img height="26" title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
 <img height="26" title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> &nbsp;
 <img height="26" title="Yarn" alt="Yarn" src="https://icongr.am/devicon/yarn-original.svg?size=128&color=currentColor"> &nbsp;
