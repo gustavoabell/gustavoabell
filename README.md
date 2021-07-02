@@ -65,7 +65,6 @@ My name is <strong>Gustavo Abel</strong>, I'm a Software Developer student from 
   <img src="https://github-readme-stats.vercel.app/api?username=gustavoabell&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="gustavoabell" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabell&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
-
 </details>
 
 
